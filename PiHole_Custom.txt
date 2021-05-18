@@ -2,10 +2,22 @@
 # Curated from  sources online.
 # Last updated: 18 May 2021
 
+# Hulu
+
+0.0.0.0 vortex.hulu.com
+0.0.0.0 img.hulu.com
+0.0.0.0 img1.hulu.com
+0.0.0.0 img2.hulu.com
+0.0.0.0 img3.hulu.com
+0.0.0.0 img4.hulu.com
+0.0.0.0 discover.hulu.com
+0.0.0.0 www.hulu.com
+0.0.0.0 hulu.com
+
 # Netflix Blocking
 
-0.0.0.0  occ.a.nflxso.net
-0.0.0.0  nflxso.net
+0.0.0.0 occ.a.nflxso.net
+0.0.0.0 nflxso.net
 0.0.0.0 assets.nflxext.com
 0.0.0.0 cdn.nflxext.com
 0.0.0.0 cdn1.nflxext.com
