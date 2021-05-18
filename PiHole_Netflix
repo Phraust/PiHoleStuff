@@ -1,0 +1,7 @@
+# This blocklist helps Pi-hole's admin restrict access to netflix and its domains.
+# Curated from  sources online.
+# Last updated: 18 May 2021
+
+0.0.0.0  *nflxso.net
+0.0.0.0  *nflxext.com
+0.0.0.0  *nflximg.com
